@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBarTitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:fontFamily">@font/google_sans</item>
+        <!-- You can also customize other attributes such as text color, size, etc. -->
+    </style>
+</resources>

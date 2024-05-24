@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/find_location"
+        android:icon="@drawable/map_location_dot"
+        app:showAsAction="always"
+        android:title="@string/hint_map" />
+    <item
+        android:id="@+id/logout"
+        app:showAsAction="never"
+        android:title="@string/logout"/>
+</menu>

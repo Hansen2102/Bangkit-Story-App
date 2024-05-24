@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Bangkit Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mari lihat cerita alumni kita yang suskes membangun kariernya di bidang IT dengan beragam kegiatan yang membantu membangun skill kamu</string>
+    <string name="title_welcome_page">Selamat datang di Story App Bangkit!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan email dan password</string>
+    <string name="title_login_page">Login</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat datang di Bangkit Story App.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="title_story">Judul story</string>
+    <string name="desc_story">Deskripsi story</string>
+    <string name="write_story">Write your Story</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="story_photo">Foto story yang ingin diupload</string>
+    <string name="hint_story">Tulis ceritamu disini</string>
+    <string name="hint_map">Lokasi story user</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="failed_upload">Gagal upload image</string>
+    <string name="hint_email">Masukkan email anda</string>
+    <string name="error_password">Password tidak boleh kurang dari 8 karakter</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Coba lagi</string>
+</resources>
